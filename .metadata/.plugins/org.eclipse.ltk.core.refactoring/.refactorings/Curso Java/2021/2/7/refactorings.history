@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;OOComposicao.desafio&apos; to &apos;Estrutura de Dados/src/SeminárioListas&apos;&#x0D;&#x0A;- Original project: &apos;Curso Java&apos;&#x0D;&#x0A;- Destination element: &apos;Estrutura de Dados/src/SeminárioListas&apos;&#x0D;&#x0A;- Original element: &apos;Curso Java/src/OOComposicao.desafio&apos;" description="Copy package" destination="=Estrutura de Dados/src&lt;SeminárioListas" element1="/src&lt;OOComposicao.desafio" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1612807646142" version="1.0"/>
-</session>
