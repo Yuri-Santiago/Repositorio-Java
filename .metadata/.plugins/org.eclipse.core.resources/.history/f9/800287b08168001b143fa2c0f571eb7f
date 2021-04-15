@@ -1,0 +1,10 @@
+package Jdbc;
+
+public class CriarBanco {
+	public static void main(String[] args) {
+		final String url = "jdbc:mysql://localhost?verifyServerCertificate=false&useSSl=true";
+		final String usuario = "root";
+		final String senha = "Fudoshiki@2712";
+		
+	}
+}
